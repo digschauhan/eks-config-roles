@@ -1,5 +1,5 @@
 # eks-config-roles
-This repository help configure following modules/components using Ansible roles.
+This repository helps configure following modules/components using Ansible roles.
 
 * kube-config
 * CoreDNS
